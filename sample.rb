@@ -8,8 +8,7 @@
 #* ***/
 input = Array.new
 while i = $stdin.gets
-	input << i.strip
+    input << i.strip
 end
 #
 # perform your processing and output your result...
-#
